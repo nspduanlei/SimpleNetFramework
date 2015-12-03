@@ -1,0 +1,2 @@
+# SimpleNetFramework
+Android网络请求框架，模仿velloy的框架结构，仅用于学习用，要用在实际项目中还要经过测试
